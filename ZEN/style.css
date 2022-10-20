@@ -13,12 +13,6 @@ body {
   width: 100%; 
   background:url(images/background.png) repeat left top; 
 }
-
-/* fgb9 */
-.main {
-  color: green;
-}
-
 a:link, a:hover {
   color: #66696C; 
   text-decoration: underline;
